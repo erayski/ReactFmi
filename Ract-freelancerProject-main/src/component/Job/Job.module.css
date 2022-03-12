@@ -1,0 +1,68 @@
+.post {
+    width: 80%;
+    height: auto;
+    border: 1px solid #234465;
+    margin-bottom: 1%;
+    border-radius: 4px;
+    padding: 2%;
+    font-style: italic;
+    /* border:1px solid blue; */
+ 
+    width: 90%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.div div{
+    display: inline-block;
+   
+}
+.post div {
+    /* border:1px solid red; */
+    height: auto;
+   
+    margin-bottom: 0.5%;
+}
+
+.user {
+    text-decoration: underline;
+    text-align: right;
+    /* border:1px solid green; */
+    padding-right: 1%;
+}
+
+.buttonEdit{
+   text-align: center; 
+  color: rgb(155, 219, 146);
+  font-size: 1em;
+  padding: 0.25em 0.5em;
+  border: 2px solid rgb(155, 219, 146);
+  border-radius: 3px;
+
+}
+.buttonDelete{
+    text-align: center; 
+   color: rgb(180, 52, 80);
+   font-size: 1em;
+   padding: 0.25em 1em;
+   margin: 0.5em;
+   border: 2px solid rgb(180, 52, 80);
+   border-radius: 3px;
+ 
+ }
+ .button{
+    text-align: center; 
+   color: rgb(38, 31, 105);
+   font-size: 1em;
+   padding: 0.25em 1em;
+   margin-top:1em;
+   margin-right: 1em;
+   border: 2px solid rgb(47, 79, 182);
+   border-radius: 3px;
+ 
+ }
+ li{
+     display: inline;
+     margin: 10px;
+ }

@@ -1,0 +1,11 @@
+.div{
+    margin-left:11px;
+    border: 1px solid #234465;
+    margin-bottom: 1%;
+    border-radius: 4px;
+    padding: 2%;
+    width: 90%;
+}
+.div h2{
+    color:#234465 
+}
